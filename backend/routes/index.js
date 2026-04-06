@@ -11,6 +11,7 @@ import { createApplication ,
     deleteApplication
 } 
 from "../controllers/applicationController.js";
+import { getDashboardStats } from "../controllers/dashboardController.js";
 import authUser from "../middlewares/authUser.js";
 
 const router = express.Router();
@@ -30,5 +31,7 @@ router.get("/applications/:id", authUser, getApplicationById);
 router.put("/applications/:id", authUser, updateApplication);
 
 router.delete("/applications/:id", authUser, deleteApplication);
+
+router.get("/dashboard/stats", authUser, getDashboardStats);
 
 export default router;
