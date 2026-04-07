@@ -136,13 +136,6 @@ Run frontend:
 
 npm run dev
 
-🚀 Deployment
-Backend (Render)
-Set environment variables:
-MONGO_URI
-JWT_SECRET
-Frontend (Vercel)
-Set environment variable
 
 
 
