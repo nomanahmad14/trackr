@@ -142,8 +142,8 @@ Set environment variables:
 MONGO_URI
 JWT_SECRET
 Frontend (Vercel)
-Set environment variable:
-VITE_API_URL = https://your-backend-url.onrender.com/api
+Set environment variable
+
 
 
 📈 What I Learned
