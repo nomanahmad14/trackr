@@ -146,15 +146,6 @@ Set environment variable
 
 
 
-📈 What I Learned
-Building a full-stack application end-to-end
-Managing authentication and protected routes
-Structuring scalable backend APIs
-Handling state with Context API
-Integrating frontend with backend APIs
-Deploying real-world applications (Vercel + Render)
-Designing a clean and usable UI
-
 
 
 
