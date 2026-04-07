@@ -8,7 +8,8 @@ Instead of relying on scattered notes or spreadsheets, Trackr provides a clean d
 
 ## 🌐 Live Demo
 
-🔗 Frontend: https://trackr-cu1gyxyh9-noman-ahmads-projects-2d4dbe54.vercel.app/
+🔗 Frontend: https://trackr-lemon.vercel.app/
+
 🔗 Backend API: https://trackr-backend-0572.onrender.com 
 
 ---
